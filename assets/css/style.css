@@ -5,7 +5,7 @@
 }
 /*targets the html element body*/
 body{
-	background-image: url(../images/bg2.jpeg);
+	background-image: url(../images/bg.jpeg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
